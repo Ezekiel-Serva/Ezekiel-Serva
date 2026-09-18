@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Ezekiel 👋
+# Hi there👋
+I'm Ezekiel, a self-taught developer who learned ~98% of my coding **on my phone** lmao.
 
-A crazy self-taught developer who learned ~98% of my coding **on my phone** lol.
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
