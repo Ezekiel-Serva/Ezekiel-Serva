@@ -33,7 +33,10 @@ I'm Ezekiel, a self-taught developer who learned ~98% of my coding **on my phone
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ezekiel-Serva&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+___
 ![](https://streak-stats.demolab.com/?user=Ezekiel-Serva&theme=dark&hide_border=true)<br/>
+
+___
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ezekiel-Serva&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
