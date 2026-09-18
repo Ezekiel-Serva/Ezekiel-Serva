@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 </picture>
 
 
-# 💫 About Me:
-🔭 I’m currently on the learning stage on becoming a game dev.<br>⚡ Christ is king
+### Hi there, I'm Ezekiel 👋
+
+A crazy self-taught developer who learned ~98% of my coding **on my phone** lol.
 
 
 ## 🌐 Socials:
