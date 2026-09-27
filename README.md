@@ -19,9 +19,6 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-# Hi there👋
-I'm Ezekiel, a self-taught developer who learned ~98% of my coding **on my phone** lmao.
-
 ---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ezekiel.serva.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_zek._08?stkn=ZG1qYWw5Mm5hY2c=) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/Ok-Complaint9319/s/8JLjDTmLwm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ezekielserva95@gmail.com) 
