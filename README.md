@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 </picture>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ezekiel-Serva&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-___
 ![](https://streak-stats.demolab.com/?user=Ezekiel-Serva&theme=dark&hide_border=true)<br/>
 
 ___
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ezekiel-Serva&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ezekiel-Serva&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ---
 ## 🌐 Socials:
